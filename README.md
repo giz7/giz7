@@ -13,7 +13,8 @@
  
  <br>
  
-  ### Sou iniciante na programação, aí estão alguns contatos:
+  ### Programador front-end, aí estão alguns contatos:
+  ### Front-end developer, here's my contacts:
  
 <div> 
   
